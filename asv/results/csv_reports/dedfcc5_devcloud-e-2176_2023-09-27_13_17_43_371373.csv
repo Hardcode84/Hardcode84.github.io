@@ -1,0 +1,4 @@
+bench\framework,numba_mlir
+npbench.azimint_naive["S"],132±5ms
+npbench.azimint_naive["M"],1.42±0.01s
+npbench.azimint_naive["paper"],349±10ms

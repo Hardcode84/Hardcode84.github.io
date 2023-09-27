@@ -97,7 +97,9 @@
                 "12"
             ],
             [
-                "'opencl:cpu:0'"
+                "'opencl:gpu:0'",
+                "'opencl:cpu:0'",
+                "'level_zero:gpu:0'"
             ]
         ],
         "repeat": 0,
@@ -125,7 +127,9 @@
                 "12"
             ],
             [
-                "'opencl:cpu:0'"
+                "'opencl:gpu:0'",
+                "'opencl:cpu:0'",
+                "'level_zero:gpu:0'"
             ]
         ],
         "repeat": 0,
