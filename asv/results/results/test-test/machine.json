@@ -1,9 +1,0 @@
-{
-    "arch": "X86_64",
-    "cpu": "11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz",
-    "machine": "test-test",
-    "num_cpu": "16",
-    "os": "Linux 5.15.90.1-microsoft-standard-WSL2",
-    "ram": "16216344",
-    "version": 1
-}

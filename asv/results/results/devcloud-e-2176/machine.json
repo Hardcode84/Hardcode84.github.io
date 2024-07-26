@@ -1,9 +1,0 @@
-{
-    "arch": "X86_64",
-    "cpu": "Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz",
-    "machine": "devcloud-e-2176",
-    "num_cpu": "12",
-    "os": "Linux 5.15.0-52-generic",
-    "ram": "65659856",
-    "version": 1
-}
